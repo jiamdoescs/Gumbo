@@ -8,7 +8,7 @@ Gumbo features a seating-arrangement creator using NLP, private links for guests
 
 User interface is simple and rooted in the design of Didion's letters.
 
-Photos from a friend :).
+Photos from a friend :). Still working on testing + doing for fun.
 
 # Pages
 Launch:
