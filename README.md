@@ -30,6 +30,7 @@ Invitation and RSVP -Guest Side-:
 - User answers questions and gets individual link to edit rsvp response. 
 
 
+<img width="1220" height="716" alt="Screenshot 2026-01-04 at 11 43 49 PM" src="https://github.com/user-attachments/assets/71d84f1c-1331-43a8-aeef-4c910f8ecd7d" />
 
 ## Installation
 In the project directory, you can run:
